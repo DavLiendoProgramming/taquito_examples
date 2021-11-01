@@ -1,0 +1,9 @@
+{
+  "symbol": "DTXZ",
+  "name": "DLINE TEZOS",
+  "decimals": "0",
+  "icon": "https://static.vecteezy.com/system/resources/previews/002/737/144/large_2x/hand-sign-language-d-line-and-fill-style-icon-design-free-vector.jpg",
+  "description": "Test token",
+  "authors": "David Liendo",
+  "interfaces": ["TZIP-007-2021-04-17", "TZIP-016-2021-04-17"]
+}
